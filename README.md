@@ -3,8 +3,7 @@
 
 # How to Install
 
-apt update && apt upgrade
-apt install python
+apt update && apt upgrade && apt install python && pip install pycryptodome
 
 # How to use
 
